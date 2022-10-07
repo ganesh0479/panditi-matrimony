@@ -17,7 +17,7 @@ export default function Home() {
             src="https://www.youtube.com/embed/tgbNymZ7vqY?controls=0"
           ></iframe>
         </div>
-        <div className="flex flex-col items-center justify-between  px-4 m-10 pb-5 rounded-none sm:w-96 sm:h-96 h-48 w-48">
+        <div className="flex flex-col items-center justify-between  px-4 m-10 pb-5 rounded-none w-96 h-96">
           <Image
             src="/panditi-matrimony.svg"
             height={100}
